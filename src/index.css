@@ -4,6 +4,9 @@
   font-family: "Poppins", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 span {
   font-family: inherit;
   font-weight: inherit;
